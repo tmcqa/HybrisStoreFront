@@ -436,10 +436,6 @@
 					"contextPath": "/hac"
 				},
 				{
-					"name": "mediaweb",
-					"contextPath": "/medias"
-				},
-				{
 					"name": "yb2bacceleratorstorefront",
 					"contextPath": "/yb2bacceleratorstorefront"
 				},
