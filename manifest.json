@@ -1,5 +1,6 @@
 {
 	"commerceSuiteVersion": "1905.0",
+	 "useCloudExtensionPack": true,
 	"extensions": [
 		"acceleratorcms",
 		"adaptivesearchbackoffice",
@@ -51,7 +52,12 @@
 		"name": "hybris-b2ctelco-suite",
 		"version": "1907.0"
 	}],
-	"properties": [{
+	"properties": [
+		{
+			"key": "lang.packs",
+			"value": "en"
+		},
+		{
 			"key": "impex.import.workers",
 			"value": "1"
 		},
@@ -146,10 +152,6 @@
 		{
 			"key": "website.utilities.https",
 			"value": "<website_utilities_http_URL>"
-		},
-		{
-			"key": "lang.packs",
-			"value": "en"
 		}
 	],
 	"storefrontAddons": [{
