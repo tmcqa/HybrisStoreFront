@@ -26,7 +26,6 @@
 		"smarteditwebservices",
 		"cmssmarteditwebservices",
 		"permissionswebservices",
-		"smarteditaddon",
 		"cmssmartedit",
 		"customerticketingaddon",
 		"customersupportbackoffice",
@@ -155,11 +154,6 @@
 	],
 	"storefrontAddons": [{
 			"addon": "b2ctelcoaddon",
-			"storefront": "yacceleratorstorefront",
-			"template": "yacceleratorstorefront"
-		},
-		{
-			"addon": "smarteditaddon",
 			"storefront": "yacceleratorstorefront",
 			"template": "yacceleratorstorefront"
 		},
