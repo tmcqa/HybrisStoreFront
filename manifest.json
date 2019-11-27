@@ -26,6 +26,7 @@
 		"smarteditwebservices",
 		"cmssmarteditwebservices",
 		"permissionswebservices",
+		"smarteditaddon",
 		"cmssmartedit",
 		"customerticketingaddon",
 		"customersupportbackoffice",
@@ -44,7 +45,8 @@
 		"modeltacceleratorservices",
 		"smartedit",
 		"oauth2",
-		"mediaweb"
+		"mediaweb",
+		"multicountrysampledataaddon"
 	],
 	"extensionPacks": [{
 		"name": "hybris-b2ctelco-suite",
@@ -154,6 +156,11 @@
 	],
 	"storefrontAddons": [{
 			"addon": "b2ctelcoaddon",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		{
+			"addon": "smarteditaddon",
 			"storefront": "yacceleratorstorefront",
 			"template": "yacceleratorstorefront"
 		},
