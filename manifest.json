@@ -43,12 +43,10 @@
 		"assistedservicestorefront",
 		"assistedservicecustomerinterestsaddon",
 		"modeltacceleratorservices",
-
 		"smartedit",
 		"oauth2",
 		"mediaweb"
 	],
-
 	"extensionPacks": [{
 		"name": "hybris-b2ctelco-suite",
 		"version": "1907.0"
